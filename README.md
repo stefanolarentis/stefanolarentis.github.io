@@ -1,2 +1,2 @@
-# hemacp.github.io
-Hema C. P.'s barebones personal homepage.
+# stefanolarentis.github.io
+Stefano's personal homepage.
